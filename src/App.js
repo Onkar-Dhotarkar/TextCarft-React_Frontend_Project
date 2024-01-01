@@ -52,7 +52,7 @@ function App() {
               mode={mode} />} ></Route>
           </Routes>
 
-          {/* <TextForm showAlert={showAlert} heading="Enter the text to analyze" mode={mode} /> */}
+          
 
           {/* <About/>  */}
         </div>
