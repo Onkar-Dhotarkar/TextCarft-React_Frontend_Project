@@ -1,6 +1,11 @@
 # TextCraft Tool - Text Transformation and Analysis Website
 The TextCraft Tool is a versatile web application created using ReactJS and Bootstrap, providing a suite of functionalities to manipulate text, including converting text to uppercase/lowercase, enabling bold and italic styles, summarizing text statistics, and estimating reading time. This project serves as a learning endeavor in frontend development, leveraging Bootstrap for enhanced design elements.
 
+![image](https://github.com/Onkar-Dhotarkar/TextCarft-React_Frontend_Project/assets/142321110/b0b87518-5126-4364-8b7b-ddc140f945bc)
+
+https://github.com/Onkar-Dhotarkar/TextCarft-React_Frontend_Project/assets/142321110/53f9bc04-467c-47fd-bf26-4ac0d066e79d
+
+
 ## Features
 - Text Transformation: Offers functions to convert text to uppercase, lowercase, and title case, with options to apply bold and italic formatting.<br>
 - Text Summary: Presents word count, character count, and estimated reading time based on the input text.<br>
