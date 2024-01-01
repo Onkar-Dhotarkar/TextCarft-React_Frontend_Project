@@ -33,3 +33,7 @@ Contributions and feedback are welcome! You're encouraged to fork this repositor
 This project is solely for educational and practice purposes in frontend development. It does not store user data or connect to any backend services.
 
 Special thanks to `CODEWITHHARRY.`
+
+## Support and Love
+`For support, give a ⭐️.`
+
